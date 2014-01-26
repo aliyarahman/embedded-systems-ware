@@ -1,4 +1,4 @@
 This repository contains basic building-block code for controlling real live robots!
 
 At the moment, it has:
-(1) Code to make the Arduino L-LED blink letters of the alphabet in Morse code.
+(1) Code to turn any Arduino-driven robot that has a light into a DJ metronome that does Chicago house or old skool tempo
