@@ -3,4 +3,3 @@ This repository contains basic building-block code for controlling real live rob
 At the moment, it has code to:
 (1) Turn any Arduino-driven robot that has a light into a DJ metronome that does Chicago house or old skool tempo
 (2) Turn any Arduino-driven robot's head back and forth, if the head is on a neck that moves with a single swiveling servo
-
