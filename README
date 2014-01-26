@@ -1,0 +1,4 @@
+This repository contains basic building-block code for controlling real live robots!
+
+At the moment, it has:
+(1) Code to make the Arduino L-LED blink letters of the alphabet in Morse code.
