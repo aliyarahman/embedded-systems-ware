@@ -1,9 +1,10 @@
 This repository contains basic building-block code for embedded C++ used for GNC
 
 At the moment, it has completed code to:
-(1) Turn any Arduino-driven robot that has a light into a DJ metronome that does Chicago house or old skool tempo
-(2) Turn any Arduino-driven robot's head back and forth, if the head is on a neck that moves with a single swiveling servo
-(3) Facial recognition and box blur code for processing image data
+(1) Move any hardware component exactly on beat for Chicago house or old skool tempo
+(2) Swivel a cylindrical component back and forth, if that component moves with a single swiveling servo
+(3) Recognize faces (Viola-Jones algorithm)
+(4) Blur out images it doesn't want to see (box blur algorithm)
 
-Currently, in-process:
-(1) A personality. GPU code for testing on CUDA.
+In development:
+(1) Intuition and personality. GPU code for testing on CUDA.
